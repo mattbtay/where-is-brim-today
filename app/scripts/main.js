@@ -25,7 +25,7 @@ function getPhoto(){
 	  	
 	  	$('.frame').css('background-image', `url( ${randomURL} )` );
 
-	  	var brimPhoto = '/images/brim1.png';
+	  	var brimPhoto = 'images/brim1.png';
 
 	  	$('.person').prop('src', brimPhoto);
 
