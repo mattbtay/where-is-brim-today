@@ -14,23 +14,23 @@ function getPhoto(){
 	const randNumb = getRandomInt(0,6);
 
 	const brim = [
-		{ photo: "brim1.png",
-		  position: "left: 0"
+		{ photo: 'brim1.png',
+		  position: 'left: 0'
 		 },
-		 { photo: "brim2.png",
-		  position: "left: 0"
+		 { photo: 'brim2.png',
+		  position: 'left: 0'
 		 },
-		 { photo: "brim3.png",
-		  position: "right: 0"
+		 { photo: 'brim3.png',
+		  position: 'right: 0'
 		 },
-		 { photo: "brim4.png",
-		  position: "left: 25%"
+		 { photo: 'brim4.png',
+		  position: 'left: 25%'
 		 },
-		 { photo: "brim5.png",
-		  position: "right: 0"
+		 { photo: 'brim5.png',
+		  position: 'right: 0'
 		 },
-		 { photo: "brim6.png",
-		  position: "right: 0"
+		 { photo: 'brim6.png',
+		  position: 'right: 0'
 		 }
 	];
 
